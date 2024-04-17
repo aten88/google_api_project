@@ -4,6 +4,7 @@
   - как использовать Python для управления сервисами Google Sheets API и Google Drive API;
   - как написать приложение для контроля бюджета с формированием отчёта в гугл-таблицах;
   - как настроить подключение проекта FastAPI к Google API.
+## Стек проекта: to do
 ## Как запустить проект:
   - клонировать репозиторий: git clone git@github.com:aten88/google_api_project.git
   - установить виртуальное окружение: python -m venv venv
