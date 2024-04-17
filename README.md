@@ -10,6 +10,6 @@
   - установить виртуальное окружение: python -m venv venv
   - активировать виртуальное окружение: source/venv/Scripts/activate
   - установить зависимости: pip install -r requirements.txt
-  - pass
+  - to do
 
 ## Автор Алексей Тен
