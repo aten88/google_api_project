@@ -7,7 +7,9 @@
 ## Стек проекта: Python3.9, Google API, Google Auth, Requests 2.31.0
 ## Как запустить проект:
   - клонировать репозиторий:
-    ```git clone git@github.com:aten88/google_api_project.git```
+    ```
+    git clone git@github.com:aten88/google_api_project.git
+    ```
   - установить виртуальное окружение:
     ```
     python -m venv venv
